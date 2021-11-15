@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LcraftAPI.API-1.0.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TestServer/Spigot/plugins/LcraftAPI.API-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

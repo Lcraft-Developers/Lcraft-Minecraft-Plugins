@@ -1,20 +1,29 @@
-# Lcraft Minecraft Plugins
+<h1 align="center">Lcraft Minecraft Plugins</h1>
+<p align="center"><i>All plugins from Lcraft Developers for Minecraft.</i></p>
 
-[![Join us on Discord](https://img.shields.io/discord/856084949827321876.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/j2KwBaHZgD)
+<p align="center">
+  <a target="_blank" href="https://www.spigotmc.org/resources/citybuild-plugin.95641/"><img src="https://static.spigotmc.org/img/spigot.png"></a>
+</p>
 
-Lcraft APIs are APIs for Minecraft. We have a normal, Languages and more APIs in this reposetory!
 
-</div>
 
-## Contact
-[![Join us on Discord](https://img.shields.io/discord/856084949827321876.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/j2KwBaHZgD)
+## Description
 
-Join us on [Discord](https://discord.gg/j2KwBaHZgD)
+This plugin adds all(but not PlotGeneration and Worldedit) to your
+CityBuild Server. You must add LuckPerms and a
+Plot Plugin by yourself.
+Wiki: <a target="_blank" href="https://github.com/Lcraft-Developers/CityBuild-Plugin/wiki">Wiki</a>
 
 ## Downloads
 ![Downloads](https://img.shields.io/github/downloads/Lcraft-Developers/Lcraft-Minecraft-Plugins/total?event=push&label=Downloads&logo=github)
 
 Downloads can be obtained from the [GitHub Page](https://github.com/Lcraft-Developers/Lcraft-Minecraft-Plugins) or the [SpigotMc Page](https://www.spigotmc.org/resources/lcraft-apis.97603/).
+
+
+## Installation
+
+Download the latest Release and put the file in
+your plugin folder in your server
 
 ## More Help
 [Go to the Wiki Page](https://github.com/Lcraft-Developers/Lcraft-APIs/wiki)

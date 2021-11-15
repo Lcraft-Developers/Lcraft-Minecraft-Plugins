@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cache">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TestServer/Spigot/cache/patched_1.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TestServer/Spigot/cache/mojang_1.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

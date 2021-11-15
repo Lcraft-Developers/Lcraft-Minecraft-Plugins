@@ -1,0 +1,8 @@
+name: 'ChallengesPlugin'
+description: This is the Challengs Plugin for Challenges
+version: '1.0.0'
+spigot-main: de.lcraft.api.spigot.testplugin.TestPlugin
+authors:
+  - LPD
+  - Lcraft
+required-modules: 'Lcraft-API, Lcraft Permissions API, Lcraft Languages API'

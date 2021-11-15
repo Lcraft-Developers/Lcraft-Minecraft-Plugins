@@ -1,0 +1,132 @@
+permissions:
+  cb:
+    commands:
+      tps:
+        name: cb.commands.tps
+        enabled: true
+        opCanIt: true
+      admin:
+        name: cb.commands.admin
+        enabled: true
+        opCanIt: true
+      '*':
+        name: cb.commands.*
+        enabled: true
+        opCanIt: true
+      night:
+        worlds:
+          player:
+            name: cb.commands.night.worlds.player
+            enabled: true
+            opCanIt: true
+          other:
+            name: cb.commands.night.worlds.other
+            enabled: true
+            opCanIt: true
+          all:
+            name: cb.commands.night.worlds.all
+            enabled: true
+            opCanIt: true
+          own:
+            name: cb.commands.night.worlds.own
+            enabled: true
+            opCanIt: true
+        world:
+          name: cb.commands.night.world
+          enabled: true
+          opCanIt: true
+      day:
+        worlds:
+          player:
+            name: cb.commands.day.worlds.player
+            enabled: true
+            opCanIt: true
+          other:
+            name: cb.commands.day.worlds.other
+            enabled: true
+            opCanIt: true
+          all:
+            name: cb.commands.day.worlds.all
+            enabled: true
+            opCanIt: true
+          own:
+            name: cb.commands.day.worlds.own
+            enabled: true
+            opCanIt: true
+        world:
+          name: cb.commands.day.world
+          enabled: true
+          opCanIt: true
+    admin:
+      name: cb.admin
+      enabled: true
+      opCanIt: true
+    '*':
+      name: cb.*
+      enabled: true
+      opCanIt: true
+    gamemode:
+      other:
+        name: cb.gamemode.other
+        enabled: true
+        opCanIt: true
+        '0':
+          name: cb.gamemode.other.0
+          enabled: true
+          opCanIt: true
+        '1':
+          name: cb.gamemode.other.1
+          enabled: true
+          opCanIt: true
+        '2':
+          name: cb.gamemode.other.2
+          enabled: true
+          opCanIt: true
+        '3':
+          name: cb.gamemode.other.3
+          enabled: true
+          opCanIt: true
+        admin:
+          name: cb.gamemode.other.admin
+          enabled: true
+          opCanIt: true
+        '*':
+          name: cb.gamemode.other.*
+          enabled: true
+          opCanIt: true
+      self:
+        name: cb.gamemode.self
+        enabled: true
+        opCanIt: true
+        '0':
+          name: cb.gamemode.self.0
+          enabled: true
+          opCanIt: true
+        '1':
+          name: cb.gamemode.self.1
+          enabled: true
+          opCanIt: true
+        '2':
+          name: cb.gamemode.self.2
+          enabled: true
+          opCanIt: true
+        '3':
+          name: cb.gamemode.self.3
+          enabled: true
+          opCanIt: true
+        admin:
+          name: cb.gamemode.self.admin
+          enabled: true
+          opCanIt: true
+        '*':
+          name: cb.gamemode.self.*
+          enabled: true
+          opCanIt: true
+      '*':
+        name: cb.gamemode.*
+        enabled: true
+        opCanIt: true
+      admin:
+        name: cb.gamemode.admin
+        enabled: true
+        opCanIt: true

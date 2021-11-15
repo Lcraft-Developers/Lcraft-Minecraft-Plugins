@@ -1,0 +1,25 @@
+name: CityBuild
+version: 1.0.2
+api-version: 1.17
+authors:
+  - LPD
+website: lcraft.de
+main: de.lcraft.cb.main.Main
+
+commands:
+  tps:
+    description: Show you the current TPS
+  gm:
+    description: Changes Gamemode
+  gamemode:
+    description: Changes Gamemode
+  setspawn:
+    description: Sets the Spawn
+  spawn:
+    description: Teleports you to the Spawn
+  night:
+    description: Makes Night
+  help:
+    description: Helps you
+  day:
+    description: Makes Day

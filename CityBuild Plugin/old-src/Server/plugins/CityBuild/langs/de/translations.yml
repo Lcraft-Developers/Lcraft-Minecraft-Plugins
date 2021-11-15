@@ -1,0 +1,83 @@
+id:
+  '3524':
+    normal: '§aCurrent TPS: §6'
+    translate: '§aCurrent TPS: §6'
+  '29440':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/tps §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/tps §c!
+  '11974':
+    normal: §aYour gamemode has changed to §6Survival
+    translate: §aYour gamemode has changed to §6Survival
+  '11682':
+    normal: §aYour gamemode has changed to §6Creative
+    translate: §aYour gamemode has changed to §6Creative
+  '12353':
+    normal: §aYour gamemode has changed to §6Adventure
+    translate: §aYour gamemode has changed to §6Adventure
+  '12438':
+    normal: §aYour gamemode has changed to §6Spectator
+    translate: §aYour gamemode has changed to §6Spectator
+  '37125':
+    normal: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Survival
+    translate: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Survival
+  '36833':
+    normal: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Creative
+    translate: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Creative
+  '38054':
+    normal: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Adventure
+    translate: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Adventure
+  '38139':
+    normal: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Spectator
+    translate: aPlayer §6%PLAYER%s§a gamemode has been changed to §6Spectator
+  '265888':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/gamemode [Gamemode] §cor §6/gamemode
+      [Player] [Gamemode] §cor §6/gm [Gamemode] §cor §6/gm [Player] [Gamemode] §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/gamemode [Gamemode] §cor §6/gamemode
+      [Player] [Gamemode] §cor §6/gm [Gamemode] §cor §6/gm [Player] [Gamemode] §c!
+  '354128':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/gm [Player] [0, 1, 2, 3] §cor §6/gm
+      [Player] [survival, creative, adventure, spectator] §cor §6/gamemode [Player]
+      [0, 1, 2, 3] §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/gm [Player] [0, 1, 2, 3] §cor §6/gm
+      [Player] [survival, creative, adventure, spectator] §cor §6/gamemode [Player]
+      [0, 1, 2, 3] §c!
+  '503109':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/gm [0, 1, 2, 3] §cor §6/gm [survival,
+      creative, adventure, spectator] §cor §6/gamemode [0, 1, 2, 3] §cor §6/gamemode
+      [survival, creative, adventure, spectator] §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/gm [0, 1, 2, 3] §cor §6/gm [survival,
+      creative, adventure, spectator] §cor §6/gamemode [0, 1, 2, 3] §cor §6/gamemode
+      [survival, creative, adventure, spectator] §c!
+  '31998':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/spawn §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/spawn §c!
+  '10308':
+    normal: §aYou have been teleported to the spawn.
+    translate: §aYou have been teleported to the spawn.
+  '10803':
+    normal: §cThe spawn location has not been set yet.
+    translate: §cThe spawn location has not been set yet.
+  '36034':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/setspawn §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/setspawn §c!
+  '5690':
+    normal: §aThe Spawn is now setted.
+    translate: §aThe Spawn is now setted.
+  '33341':
+    normal: §aIn the World %WORLD% the time has been seted to §6%TIME%§a.
+    translate: §aIn the World %WORLD% the time has been seted to §6%TIME%§a.
+  '102201':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/§aIn all Worlds the time has been
+      seted to §6%TIME%§a. §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/§aIn all Worlds the time has been
+      seted to §6%TIME%§a. §c!
+  '149740':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/night §cor §6/night all §cor §6/night
+      [World] §cor §6/night [Player] §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/night §cor §6/night all §cor §6/night
+      [World] §cor §6/night [Player] §c!
+  '130696':
+    normal: §7[§6CityBuild§7] §r§cPlease use §6/day §cor §6/day all §cor §6/day [World]
+      §cor §6/day [Player] §c!
+    translate: §7[§6CityBuild§7] §r§cPlease use §6/day §cor §6/day all §cor §6/day
+      [World] §cor §6/day [Player] §c!
