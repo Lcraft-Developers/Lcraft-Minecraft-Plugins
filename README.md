@@ -2,7 +2,7 @@
 <p align="center"><i>All plugins from Lcraft Developers for Minecraft.</i></p>
 
 <p align="center">
-  <a target="_blank" href="https://www.spigotmc.org/resources/citybuild-plugin.95641/"><img src="https://static.spigotmc.org/img/spigot.png"></a>
+  <a target="_blank" href=""><img src="https://static.spigotmc.org/img/spigot.png"></a>
 </p>
 
 
