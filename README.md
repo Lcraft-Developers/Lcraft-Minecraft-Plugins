@@ -9,21 +9,19 @@
 
 ## Description
 
-This plugin adds all(but not PlotGeneration and Worldedit) to your
-CityBuild Server. You must add LuckPerms and a
-Plot Plugin by yourself.
-Wiki: <a target="_blank" href="https://github.com/Lcraft-Developers/CityBuild-Plugin/wiki">Wiki</a>
+These are all the Plugins of Lcraft.
+All infos about plugins are on the <a target="_blank" href="https://github.com/Lcraft-Developers/Lcraft-Minecraft-Plugins/wiki">Wiki</a>
 
 ## Downloads
 ![Downloads](https://img.shields.io/github/downloads/Lcraft-Developers/Lcraft-Minecraft-Plugins/total?event=push&label=Downloads&logo=github)
 
-Downloads can be obtained from the [GitHub Page](https://github.com/Lcraft-Developers/Lcraft-Minecraft-Plugins) or the [SpigotMc Page](https://www.spigotmc.org/resources/lcraft-apis.97603/).
+Downloads can be obtained from the [GitHub Page](https://github.com/Lcraft-Developers/Lcraft-Minecraft-Plugins) or on the spigot pages.
 
+### Spigot Pages
+[Challenges Plugin](https://www.spigotmc.org/resources/challenges-plugin.93219)
+[CityBuild Plugin](https://www.spigotmc.org/resources/citybuild-plugin.95641)
 
 ## Installation
 
 Download the latest Release and put the file in
-your plugin folder in your server
-
-## More Help
-[Go to the Wiki Page](https://github.com/Lcraft-Developers/Lcraft-APIs/wiki)
+your lmodules folder in your server
