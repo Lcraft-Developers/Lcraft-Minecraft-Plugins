@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Challenges Plugin/Challenges Plugin.iml" filepath="$PROJECT_DIR$/Challenges Plugin/Challenges Plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/CityBuild Plugin/CityBuild Plugin.iml" filepath="$PROJECT_DIR$/CityBuild Plugin/CityBuild Plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Lcraft-Minecraft-Plugins.iml" filepath="$PROJECT_DIR$/.idea/Lcraft-Minecraft-Plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessential Plugin (Essentials)/LessentialsPlugin.iml" filepath="$PROJECT_DIR$/Lessential Plugin (Essentials)/LessentialsPlugin.iml" />
     </modules>
   </component>
 </project>

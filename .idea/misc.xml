@@ -10,6 +10,8 @@
       <list>
         <option value="$PROJECT_DIR$/Challenges Plugin/pom.xml" />
         <option value="$PROJECT_DIR$/CityBuild Plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/Lessential Plugin (Essential)/pom.xml" />
+        <option value="$PROJECT_DIR$/Lessential Plugin (Essentials)/pom.xml" />
       </list>
     </option>
   </component>

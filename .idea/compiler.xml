@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="LessentialsPlugin" />
         <module name="CityBuild Plugin" />
         <module name="Challenges Plugin" />
       </profile>
@@ -13,6 +14,8 @@
     <bytecodeTargetLevel>
       <module name="Challenges Plugin" target="1.8" />
       <module name="CityBuild Plugin" target="1.8" />
+      <module name="Lessential Plugin (Essential)" target="1.8" />
+      <module name="LessentialsPlugin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
