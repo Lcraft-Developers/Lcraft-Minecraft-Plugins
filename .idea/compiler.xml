@@ -14,7 +14,8 @@
     <bytecodeTargetLevel>
       <module name="Challenges Plugin" target="16" />
       <module name="ChallengesPlugin" target="16" />
-      <module name="CityBuild Plugin" target="16" />
+      <module name="CityBuild Plugin" target="1.5" />
+      <module name="Heal Plugin" target="16" />
       <module name="Lessential Plugin (Essential)" target="1.8" />
       <module name="LessentialsPlugin" target="16" />
     </bytecodeTargetLevel>
